@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/portfolio/static/css/main.629539b2.css",
+    "main.js": "/portfolio/static/js/main.7ad3b805.js",
+    "static/media/candys.jpeg": "/portfolio/static/media/candys.a5bdf86ac3ca483ab823.jpeg",
+    "static/media/home-main.svg": "/portfolio/static/media/home-main.359935c39288e92d4dba5c9f2445b91d.svg",
+    "static/media/Agustin-Luparini-Resume.pdf": "/portfolio/static/media/Agustin-Luparini-Resume.00b630f941275e74a5d7.pdf",
+    "static/media/flutterApp.jpg": "/portfolio/static/media/flutterApp.049279e06acd376ed496.jpg",
+    "static/media/home-bg.jpg": "/portfolio/static/media/home-bg.dc52d5d40a40b13154b0.jpg",
+    "static/media/image.png": "/portfolio/static/media/image.3052bdc893b11dd1fdca.png",
+    "static/media/pre.svg": "/portfolio/static/media/pre.4410c5baaa673cc131da.svg",
+    "index.html": "/portfolio/index.html",
+    "main.629539b2.css.map": "/portfolio/static/css/main.629539b2.css.map",
+    "main.7ad3b805.js.map": "/portfolio/static/js/main.7ad3b805.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.629539b2.css",
+    "static/js/main.7ad3b805.js"
+  ]
+}
